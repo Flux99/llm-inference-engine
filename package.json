@@ -1,0 +1,9 @@
+{
+  "name": "llm-inference-ts",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "node --experimental-strip-types --test ts/tests/test_tensor.test.ts",
+    "demo": "node --experimental-strip-types ts/src/main.ts"
+  }
+}

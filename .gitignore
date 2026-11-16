@@ -1,0 +1,10 @@
+build/
+node_modules/
+.cache/
+compile_commands.json
+
+# Internal roadmap and guidelines
+docs/course/COURSE_GUIDELINES.md
+docs/course/CURRICULUM_STRUCTURE.md
+roadmap.md
+roadmap_enhanced.md
